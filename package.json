@@ -52,7 +52,7 @@
     "execa": "^5.0.0",
     "fast-glob": "^3.2.2",
     "handlebars": "^4.7.3",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.1.0",
     "listr": "^0.14.3",
     "rimraf": "^3.0.2",
     "tslib": "^2.0.0",
